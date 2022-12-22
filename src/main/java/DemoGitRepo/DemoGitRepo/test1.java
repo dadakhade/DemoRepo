@@ -7,4 +7,5 @@ public class test1 {
     String str3="DK3";
     String str4="DK4";
     String str5="DK5";
+    String str6="DK6";
 }
